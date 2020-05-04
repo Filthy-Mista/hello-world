@@ -1,4 +1,6 @@
-# hello-world
-My first repository
+# Prova-Di-Laboratorio-Prog1
 
-Here will be trowned all my code trash, and sometimes good ideas
+
+prove di laboratorio prog1 ...
+per ora ...
+
